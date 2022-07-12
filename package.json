@@ -1,0 +1,25 @@
+{
+  "name": "kojs-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simbionte96/kojs-landing-page.git"
+  },
+  "keywords": [
+    "APIs",
+    "asynchrony",
+    "parkour",
+    "YouTube"
+  ],
+  "author": "Santiago Toro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simbionte96/kojs-landing-page/issues"
+  },
+  "homepage": "https://github.com/simbionte96/kojs-landing-page#readme"
+}
