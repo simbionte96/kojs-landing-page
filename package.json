@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/simbionte96/kojs-landing-page/issues"
   },
-  "homepage": "https://github.com/simbionte96/kojs-landing-page#readme"
+  "homepage": "https://github.com/simbionte96/kojs-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
